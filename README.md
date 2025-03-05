@@ -18,3 +18,7 @@ A simple JavaScript-based circular progress animation using the HTML5 Canvas API
 | `bgcolor`    | Background circle color      | `"#222"`      |
 | `width`/`height`    | Canvas size       | `300x300`      |
 | `lineWidth`    | Stroke width of the circle       | `30px`      |
+
+## Credits
+Developed by Santhoshkumar
+Inspired by Tamil numeral system and modern UI animations.
